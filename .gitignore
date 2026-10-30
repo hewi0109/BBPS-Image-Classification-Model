@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+venv/
+.venv/
+BBPS_Pictures/
+nerthus-dataset-frames/
